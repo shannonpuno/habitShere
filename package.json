@@ -1,0 +1,25 @@
+{
+  "name": "habitsphere",
+  "version": "1.0.0",
+  "description": "Habit tracker app that uses Node.js and Mongo.db. This app allows the user to easily track their habits and aid them in building habits. ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shannonpuno/habitSphere.git"
+  },
+  "author": "Shannon Puno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shannonpuno/habitSphere/issues"
+  },
+  "homepage": "https://github.com/shannonpuno/habitSphere#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "crypto": "^1.0.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.3"
+  }
+}
